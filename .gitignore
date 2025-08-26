@@ -34,7 +34,8 @@ fp-info-cache
 *.csv
 
 # Allow bom files in the production folder
-!production/*.csv
+!*/production/*.csv
+*/production/backups/*
 
 # Archived Backups (KiCad 6.0)
 **/*-backups/*.zip

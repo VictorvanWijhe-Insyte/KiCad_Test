@@ -1,0 +1,7 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+"C3, C4",0603,2,1u,
+IC1,SOT95P280X145-6N,1,TPS22929DDBVT,C2653763
+J1,Module_V3_09x30_Mkey,1,Module_V3_Mkey_Module,
+R2,0603,1,0R,
+R6,0603,1,1M,
+U1,10x4.1_Insyte_Logo,1,~,
